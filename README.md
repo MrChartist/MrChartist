@@ -56,6 +56,7 @@ On GitHub, I build tools that bridge my market knowledge with technology:
 | Project | Description |
 |---|---|
 | 🗒️ [mytradebook](https://github.com/MrChartist/mytradebook) | Trading journal for Indian markets (NSE, MCX, F&O) built with TypeScript |
+
 | 📊 mytradebooknew | Next-gen trade tracking and analytics platform |
 
 ---
