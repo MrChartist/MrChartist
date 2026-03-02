@@ -106,3 +106,4 @@ On GitHub, I build tools that bridge my market knowledge with technology:
 ![Visitor Count](https://komarev.com/ghpvc/?username=MrChartist&color=gold&style=flat-square)
 
 </div>
+
