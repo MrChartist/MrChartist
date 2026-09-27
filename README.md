@@ -1,45 +1,150 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6366f1&height=200&section=header&text=Mr.%20Chartist&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Complete%20Trading%20Ecosystem&descSize=18&descAlignY=55&descColor=8b5cf6" width="100%" />
-
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=SEBI+Registered+Research+Analyst+%E2%80%94+INH000015297;14%2B+Years+of+Markets+%7C+30%2B+Certifications+%7C+1.5+Lakh%2B+Traders" alt="Typing SVG" /></a>
+  <img src="github-banner.svg" alt="Mr. Chartist Banner" width="100%" />
 
-<br/>
+  <br />
+  <br />
 
-<a href="https://mrchartist.com"><img src="https://img.shields.io/badge/mrchartist.com-6366f1?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
-<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-0d1117?style=for-the-badge&logo=buffer&logoColor=8b5cf6" alt="Investology"/></a>
-<a href="https://twitter.com/Mr_Chartist"><img src="https://img.shields.io/badge/-@Mr__Chartist-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/></a>
-<a href="https://www.youtube.com/@MrChartist"><img src="https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
-<a href="https://www.tradingview.com/u/Mr_Chartist_/"><img src="https://img.shields.io/badge/-TradingView-0d1117?style=for-the-badge&logo=tradingview&logoColor=2962FF" alt="TradingView"/></a>
-<a href="https://www.instagram.com/rrohit_singh_lodhi/"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/rohit-singh-192a291b6/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://mrchartist.com"><img src="https://img.shields.io/badge/SEBI%20RA-INH000015297-FF6633?style=for-the-badge&logo=shield&logoColor=white" alt="SEBI Registered"/></a>
+  <a href="https://mrchartist.com"><img src="https://img.shields.io/badge/Website-mrchartist.com-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF6633" alt="Website"/></a>
+  <a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Platform-Investology-2E73CF?style=for-the-badge&logo=compass&logoColor=white" alt="Investology"/></a>
+  <a href="https://www.instagram.com/rrohit_singh_lodhi/"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/rohit-singh-192a291b6/"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MrChartist&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MrChartist&color=FF6633&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+  <br/>
+
+  ### **India's Premier Financial Literacy & Quantitative Research Platform**
+  *Bridging retail trading with institutional-grade research, price action analysis, and options mechanics.*
 
 </div>
 
-<br/>
+---
 
-## About
+### 👋 About Rohit Singh (Mr. Chartist)
 
-```
+```txt
 Rohit Singh | Mr. Chartist
-SEBI-Registered Research Analyst | INH000015297
+SEBI-Registered Research Analyst | Reg. No. INH000015297
 
-B.Com - Financial Market Management
-30+ NISM & NCFM Certifications
-Specialist in Price & Volume Analysis and Candlestick Patterns
-Amazon #1 Bestselling Author - "Trading Candlestick Patterns"
-70,000+ followers across social media platforms
+• B.Com - Financial Market Management
+• 30+ NISM & NCFM Certifications (Series 1 through Series 24)
+• Amazon #1 Bestselling Author - "Trading Candlestick Patterns"
+• Specialist in Price & Volume Analysis, Options Mechanics & Quantitative Systems
+• 14+ Years of Market Experience | Trusted by 1.5 Lakh+ Traders & Investors
 ```
 
-> *Premium tools, weekly chartbooks, and structured education for Indian market traders. Built by **Rohit Singh** -- 14+ years of markets, 30+ certifications, trusted by 1.5 Lakh+ traders.*
+> *"Price is the truth. Volume is the conviction. Everything else is noise."* — **Rohit Singh**
+
+---
+
+### 🏛️ The 9 Academy Learning Modules
+
+Each learning pillar on [mrchartist.com](https://mrchartist.com) is built with dedicated color-coded visual design and structured India-first examples:
+
+| Module Icon | Module Name | Theme Hex | Key Coverage |
+|:---:|:---|:---:|:---|
+| 🚀 | **Start Your Journey** | `#2E73CF` *(Sapphire)* | Stock market fundamentals, NSE/BSE order matching, T+1 settlement, accounts setup & risk rules |
+| 📊 | **Technical Analysis** | `#A8458C` *(Plum)* | Price action principles, candlestick patterns, VWAP, support/resistance & market cycles |
+| ⚡ | **Options & F&O** | `#E0632F` *(Sunset)* | Option Greeks (Delta, Gamma, Theta, Vega), spreads, Iron Condors, pay-off math & risk |
+| 📈 | **Fundamental Analysis** | `#138A63` *(Emerald)* | Balance sheet analysis, P&L, cash flow statements, annual reports & valuation metrics |
+| 🏢 | **Know Your Sector** | `#1F8597` *(Onyx Teal)* | Industry deep dives: Banking & Financials, IT, Auto, Pharma, Sugar, Steel & FMCG |
+| 🔎 | **Know Your Company** | `#D11A6E` *(Magenta)* | Micro-cap & blue-chip fundamental case studies, corporate governance & moat analysis |
+| 📜 | **NISM Certifications** | `#C42B3C` *(Crimson)* | Complete exam syllabus prep guides for NISM Series 1 through Series 24 |
+| 📈 | **TradingView & Charting** | `#5E6FAC` *(Royal Navy)* | Pine Script coding, indicator configuration, multi-timeframe layouts & chart setups |
+| 🤖 | **Algo & Systematic Trading**| `#A8801F` *(Gold)* | Quantitative backtesting, algorithmic execution, Python financial APIs & automated risk management |
+
+---
+
+### 📚 Featured Bestselling Book
+
+<div align="center">
+
+<table>
+<tr>
+<td width="600">
+
+### **Trading Candlestick Patterns**
+*Amazon #1 Bestseller*
+
+A comprehensive, practical guide to mastering candlestick patterns in real Indian market conditions.
+
+- **250+ pages** of practical, actionable content
+- Real examples from **NSE, MCX, and F&O**
+- Available in **English & Gujarati**
+- Zero theory fluff — pure price-action signals
 
 <br/>
 
-## Tech Stack
+<a href="https://mrchartist.com/trading-candlestick-patterns/">
+<img src="https://img.shields.io/badge/Get_the_Book-FF6633?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🌐 Product Ecosystem & Live Platforms
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[mrchartist.com - Main Website & Academy] --> B[Investology Research Hub]
+    A --> C[FII / DII Institutional Data Tracker]
+    A --> D[Interactive Chartbook Editions]
+    A --> E[NISM Series 1-24 Study Library]
+    
+    style A fill:#0D0D0D,stroke:#FF6633,stroke-width:2px,color:#ECECEC
+    style B fill:#18181C,stroke:#2E73CF,stroke-width:1.5px,color:#ECECEC
+    style C fill:#18181C,stroke:#138A63,stroke-width:1.5px,color:#ECECEC
+    style D fill:#18181C,stroke:#A8458C,stroke-width:1.5px,color:#ECECEC
+    style E fill:#18181C,stroke:#C42B3C,stroke-width:1.5px,color:#ECECEC
+```
+
+</div>
+
+| Status | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| <img src="https://img.shields.io/badge/LIVE-FF6633?style=flat-square" /> | **[MrChartist.com](https://mrchartist.com)** | Complete trading ecosystem — courses, pre-rendered SEO guides, tools | React 18, Vite, TS |
+| <img src="https://img.shields.io/badge/LIVE-2E73CF?style=flat-square" /> | **[Investology](https://investology.mrchartist.com/)** | Premium SEBI RA research, chartbooks & market analytics | Next.js, React |
+| <img src="https://img.shields.io/badge/LIVE-138A63?style=flat-square" /> | **[FII/DII Tracker](https://fii-diidata.mrchartist.com)** | Real-time institutional cash & derivative flow tracking | React, Node.js |
+| <img src="https://img.shields.io/badge/LIVE-5E6FAC?style=flat-square" /> | **[TVtoTGBridge](https://tvbridge.mrchartist.com/)** | TradingView alerts to Telegram / Discord / Slack bridge | Node.js, Express |
+
+---
+
+### 🌟 Featured Open Source Repositories
+
+<div align="center">
+
+<a href="https://github.com/MrChartist/india-s-best-option-hub">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=india-s-best-option-hub&theme=dark&bg_color=0D0D0D&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=222222" alt="india-s-best-option-hub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MrChartist/fii-dii-data">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=fii-dii-data&theme=dark&bg_color=0D0D0D&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=222222" alt="fii-dii-data"/>
+</a>
+
+<a href="https://github.com/MrChartist/Funda-Scanner-Base-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=Funda-Scanner-Base-Project&theme=dark&bg_color=0D0D0D&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=222222" alt="Funda-Scanner-Base-Project"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MrChartist/commodity-price-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=commodity-price-tracker&theme=dark&bg_color=0D0D0D&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=222222" alt="commodity-price-tracker"/>
+</a>
+
+</div>
+
+---
+
+### 💻 Tech Stack & Developer Tools
 
 <div align="center">
 
@@ -49,173 +154,42 @@ Amazon #1 Bestselling Author - "Trading Candlestick Patterns"
 
 </div>
 
-<br/>
+---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MrChartist&show_icons=true&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChartist&layout=compact&theme=github_dark&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e&hide_border=false&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MrChartist&theme=github-dark-blue&border=1a1a2e&stroke=1a1a2e&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## Featured Open Source
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
-<a href="https://github.com/MrChartist/india-s-best-option-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=india-s-best-option-hub&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e" alt="india-s-best-option-hub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MrChartist/fii-dii-data">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=fii-dii-data&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e" alt="fii-dii-data"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrChartist&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6633&text_color=ECECEC&icon_color=FF6633&border_color=222222&count_private=true&include_all_commits=true" alt="Mr. Chartist GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChartist&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6633&text_color=ECECEC&border_color=222222" alt="Most Used Languages" width="48%" />
 
-<a href="https://github.com/MrChartist/Funda-Scanner-Base-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=Funda-Scanner-Base-Project&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e" alt="Funda-Scanner-Base-Project"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MrChartist/commodity-price-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=commodity-price-tracker&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e" alt="commodity-price-tracker"/>
-</a>
+  <br/><br/>
 
-<a href="https://github.com/MrChartist/memvault">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=memvault&theme=github_dark&title_color=8b5cf6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=1a1a2e" alt="memvault"/>
-</a>
+  <img src="https://streak-stats.demolab.com?user=MrChartist&theme=dark&border=222222&stroke=222222&ring=FF6633&fire=FF6633&currStreakLabel=FF6633&sideLabels=ECECEC&dates=A1A1AA&background=0D0D0D" alt="GitHub Streak"/>
 
 </div>
 
-<br/>
+---
 
-## The Ecosystem
+### ⚖️ SEBI Regulatory Compliance & Disclaimer
 
-> *I build tools that bridge deep market knowledge with technology -- from trading journals to indicator engines to full-stack fintech products.*
-
-### Platforms & Products
-
-| Status | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| <img src="https://img.shields.io/badge/LIVE-6366f1?style=flat-square" /> | **[Investology](https://investology.mrchartist.com/)** | Premium SEBI RA research & advisory platform | Next.js, React |
-| <img src="https://img.shields.io/badge/LIVE-6366f1?style=flat-square" /> | **[TVtoTGBridge](https://tvbridge.mrchartist.com/)** | TradingView alerts to Telegram / Discord / Slack | Node.js, Express |
-| <img src="https://img.shields.io/badge/LIVE-6366f1?style=flat-square" /> | **[MrChartist.com](https://mrchartist.com)** | The complete trading ecosystem -- courses, tools, research | React, Vite |
-
-### Trading Tools
-
-| Status | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| <img src="https://img.shields.io/badge/OSS-8b5cf6?style=flat-square" /> | **[mytradebook](https://github.com/MrChartist/mytradebook)** | Feature-rich trading journal for NSE, MCX, F&O | TypeScript |
-| <img src="https://img.shields.io/badge/DEV-1a1a2e?style=flat-square" /> | **mytradebooknew** | Next-gen trade analytics & portfolio tracker | TypeScript, Node |
-| <img src="https://img.shields.io/badge/DEV-1a1a2e?style=flat-square" /> | **IndicatorFactory** | Indicator creation & management engine | JavaScript |
-| <img src="https://img.shields.io/badge/DEV-1a1a2e?style=flat-square" /> | **TradingViewLicenseManager** | License system for TV indicator distribution | TypeScript |
-
-### Education
-
-| Status | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| <img src="https://img.shields.io/badge/LIVE-6366f1?style=flat-square" /> | **[Technical Analysis Course](https://mrchartist.com/tac-technical_analysis_course/)** | 60+ hours, live sessions, lifetime access | -- |
-| <img src="https://img.shields.io/badge/DEV-1a1a2e?style=flat-square" /> | **tradingcandlestickpatternbook** | Interactive companion app for my bestseller | TypeScript |
-| <img src="https://img.shields.io/badge/DEV-1a1a2e?style=flat-square" /> | **nismexams** | NISM exam preparation platform | TypeScript |
-
-<br/>
-
-## The Book
-
-<div align="center">
-
-<table>
-<tr>
-<td width="600">
-
-### Trading Candlestick Patterns
-
-**Amazon #1 Bestseller**
-
-A comprehensive, no-fluff guide to mastering candlestick patterns in real Indian market conditions.
-
-- **250+ pages** of practical, actionable content
-- Real examples from **NSE, MCX, and F&O**
-- Available in **English & Gujarati**
-- Zero theory fluff -- pure signal
-
-<br/>
-
-<a href="https://mrchartist.com/trading-candlestick-patterns/">
-<img src="https://img.shields.io/badge/Get_the_Book-6366f1?style=for-the-badge&logo=amazon&logoColor=white" alt="Get the Book"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## Services
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="300">
-
-**Technical Analysis Course**
-
-60+ hours of content<br/>
-Live sessions<br/>
-Lifetime access
-
-<a href="https://mrchartist.com/tac-technical_analysis_course/">
-<img src="https://img.shields.io/badge/Explore_Course-0d1117?style=for-the-badge&logo=bookstack&logoColor=8b5cf6" alt="Course"/>
-</a>
-
-</td>
-<td align="center" width="300">
-
-**Investology Research**
-
-SEBI-compliant trade signals<br/>
-Weekly ChartBooks<br/>
-Multi-asset coverage
-
-<a href="https://investology.mrchartist.com/">
-<img src="https://img.shields.io/badge/Access_Services-0d1117?style=for-the-badge&logo=buffer&logoColor=8b5cf6" alt="Investology"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+> [!IMPORTANT]
+> **Registration Details**: **Rohit Singh** is a **SEBI Registered Research Analyst** with Registration No. **INH000015297**.
+> 
+> **Disclaimer**: All content, code, articles, chartbooks, and educational modules provided on [mrchartist.com](https://mrchartist.com) and associated repositories are for **educational and informational purposes only**. Stock market investments are subject to market risks. Read all related documents carefully before investing. Past performance is not indicative of future returns.
 
 ---
 
 <div align="center">
 
-<br/>
+  <a href="https://mrchartist.com"><img src="https://img.shields.io/badge/mrchartist.com-FF6633?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+  &nbsp;
+  <a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-0D0D0D?style=for-the-badge&logo=buffer&logoColor=FF6633" alt="Investology"/></a>
 
-*"Price is the truth. Volume is the conviction. Everything else is noise."*
+  <br/><br/>
 
-**-- Rohit Singh, Mr. Chartist**
-
-<br/>
-
-<a href="https://mrchartist.com"><img src="https://img.shields.io/badge/mrchartist.com-6366f1?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
-&nbsp;
-<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-0d1117?style=for-the-badge&logo=buffer&logoColor=8b5cf6" alt="Investology"/></a>
-
-<br/><br/>
+  <sub>© Mr. Chartist. All rights reserved. • Built with passion for Indian Stock Markets 🇮🇳</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6366f1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:18181c,100:ff6633&height=120&section=footer" width="100%" />
