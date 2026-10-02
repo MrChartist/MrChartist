@@ -2,17 +2,23 @@
 
 <a href="https://mrchartist.com"><img src="github-banner.svg" alt="Mr. Chartist. Learn the Indian market. Check my work." width="100%" /></a>
 
-<br />
+<p>
+<a href="https://mrchartist.com/ecosystem"><b>Ecosystem</b></a> &nbsp;·&nbsp;
+<a href="https://mrchartist.com/research"><b>Research</b></a> &nbsp;·&nbsp;
+<a href="https://mrchartist.com/learn"><b>Learn</b></a> &nbsp;·&nbsp;
+<a href="https://mrchartist.com/open-source"><b>Open Source</b></a> &nbsp;·&nbsp;
+<a href="https://mrchartist.com/about"><b>About</b></a> &nbsp;·&nbsp;
+<a href="https://investology.mrchartist.com"><b>Investology ↗</b></a>
+</p>
 
-<a href="https://mrchartist.com"><img src="https://img.shields.io/badge/mrchartist.com-FF6633?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-SEBI_RA_Research-2E73CF?style=for-the-badge" alt="Investology"/></a>
-<a href="https://mrchartist.com/learn"><img src="https://img.shields.io/badge/Academy-Free-B7830D?style=for-the-badge" alt="Academy"/></a>
-<a href="https://t.me/MrChartist"><img src="https://img.shields.io/badge/Telegram-ChartBook-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://www.youtube.com/@MrChartist"><img src="https://img.shields.io/badge/YouTube-@MrChartist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://x.com/Mr_Chartist"><img src="https://img.shields.io/badge/X-@Mr__Chartist-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.linkedin.com/in/rohit-mrchartist/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/mrchartist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.tradingview.com/u/MrChartist"><img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/></a>
+<a href="https://mrchartist.com"><img src="https://img.shields.io/badge/Website-mrchartist.com-1C1C1E?style=for-the-badge&logo=googlechrome&logoColor=DEA27F" alt="Website"/></a>
+<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-Research-1C1C1E?style=for-the-badge&logo=buffer&logoColor=DEA27F" alt="Investology"/></a>
+<a href="https://t.me/MrChartist"><img src="https://img.shields.io/badge/Telegram-ChartBook-1C1C1E?style=for-the-badge&logo=telegram&logoColor=DEA27F" alt="Telegram"/></a>
+<a href="https://www.youtube.com/@MrChartist"><img src="https://img.shields.io/badge/YouTube-@MrChartist-1C1C1E?style=for-the-badge&logo=youtube&logoColor=DEA27F" alt="YouTube"/></a>
+<a href="https://x.com/Mr_Chartist"><img src="https://img.shields.io/badge/X-@Mr__Chartist-1C1C1E?style=for-the-badge&logo=x&logoColor=DEA27F" alt="X"/></a>
+<a href="https://www.linkedin.com/in/rohit-mrchartist/"><img src="https://img.shields.io/badge/LinkedIn-Rohit-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=DEA27F" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/mrchartist"><img src="https://img.shields.io/badge/Instagram-@mrchartist-1C1C1E?style=for-the-badge&logo=instagram&logoColor=DEA27F" alt="Instagram"/></a>
+<a href="https://www.tradingview.com/u/MrChartist"><img src="https://img.shields.io/badge/TradingView-MrChartist-1C1C1E?style=for-the-badge&logo=tradingview&logoColor=DEA27F" alt="TradingView"/></a>
 
 <br /><br />
 
@@ -24,15 +30,22 @@
 
 ## Hi, I am Rohit Singh
 
+<img src="assets/rohit-portrait.webp" alt="Rohit Singh, Mr. Chartist" width="100%" />
+
 I started studying markets as a student, with no desk, no mentor and no capital. Fourteen years later, everything on [mrchartist.com](https://mrchartist.com) exists because I needed it myself and could not find it built properly anywhere else.
 
 I am a **SEBI Registered Research Analyst (INH000015297)**, a **30+ NISM & NCFM certified** market educator, and the **Amazon #1 bestselling author** of *Trading Candlestick Patterns*.
 
 > Charts tell you what the market is doing. Fundamentals tell you why. Discipline tells you when to act and when to sit.
 
-<div align="center">
-<img src="price-action-divider.svg" alt="Candlestick chart: breakout on volume, then retest" width="100%" />
-</div>
+| Year | Milestone |
+|:---:|:---|
+| **2012** | Markets journey begins: started studying and trading Indian markets |
+| **2018** | Weekly ChartBook launches: chart-based setups across equity and F&O, every week |
+| **2023** | The workflow becomes software: Scanner Pro, the FII/DII terminal, OptionsDesk and TradeBook |
+| **2024** | SEBI registration and a first book: *Trading Candlestick Patterns* launched |
+| **2025** | *Trading Candlestick Patterns* reaches **#1 on Amazon** |
+| **2026** | Sector notes and ten Academy modules |
 
 ---
 
@@ -58,7 +71,7 @@ I do not ask you to trust a badge. Every setup is published with its date, its p
 
 <br />
 
-<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Open_Investology-2E73CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Investology"/></a>
+<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Open_Investology_↗-2E73CF?style=for-the-badge" alt="Open Investology"/></a>
 
 </div>
 
@@ -74,21 +87,21 @@ I do not ask you to trust a badge. Every setup is published with its date, its p
 
 Every product was built because one of these steps let me down and cost me money.
 
-<img src="assets/workflow.svg" alt="Learn, Research, Scan, Trade, Review" width="100%" />
+<img src="assets/workflow.svg" alt="Learn it, research it, scan it, trade it, review it" width="100%" />
 
 | Step | Product | What it does | Status |
 |:---:|:---|:---|:---:|
 | Learn | **[The Academy](https://mrchartist.com/learn)** | Ten free modules. No paywall, no locked chapters. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Learn | **[Trading Books](https://mrchartist.com)** | Two price-action books on real NSE and BSE trades. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
-| Learn | **NISM Exams** | Mock tests and notes. Free NISM guides are already in the Academy. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
+| Learn | **NISM Exams** | Mock tests and notes. Free NISM guides are already in the Academy. | ![In development](https://img.shields.io/badge/IN_DEV-3A3835?style=flat-square) |
+| Research | **[Investology](https://investology.mrchartist.com)** | Structured chart research under my SEBI registration. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Research | **[Weekly ChartBook](https://mrchartist.com/research)** | Chart-based equity and F&O setups every week, with levels and invalidation marked. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Research | **[FII/DII Data](https://fii-diidata.mrchartist.com)** | FII/DII flows, F&O positioning and sector-wise FPI allocation. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Research | **[IPO Decode](https://ipodecode.mrchartist.com)** | Every mainboard and SME IPO, from DRHP to listing: GMP, subscription, allotment. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
-| Research | **[Investology](https://investology.mrchartist.com)** | Structured chart research under my SEBI registration: daily notes, level alerts, trade posters and weekly ChartBook. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Scan | **[Scanner Pro](https://scanner.mrchartist.com)** | 120+ algorithmic scans across 3,000+ NSE and BSE stocks, with an AI market brief. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
-| Scan | **[FundaDesk](https://funda.mrchartist.com)** | Fundamental research desk with 15+ years of statements and a Quality Score. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
-| Trade | **[OptionsDesk](https://optionsdesk.mrchartist.com)** | Option chain across expiries, volatility research and event-based notes. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
-| Review | **[TradeBook](https://tradebook.mrchartist.com)** | A journal for NSE, BSE and MCX trades: log why you took it, then review it. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
+| Scan | **[FundaDesk](https://funda.mrchartist.com)** | Fundamental research desk with 15+ years of statements and a Quality Score. | ![In development](https://img.shields.io/badge/IN_DEV-3A3835?style=flat-square) |
+| Trade | **[OptionsDesk](https://optionsdesk.mrchartist.com)** | Option chain across expiries, volatility research and event-based notes. | ![In development](https://img.shields.io/badge/IN_DEV-3A3835?style=flat-square) |
+| Review | **[TradeBook](https://tradebook.mrchartist.com)** | A journal for NSE, BSE and MCX trades: log why you took it, then review it. | ![In development](https://img.shields.io/badge/IN_DEV-3A3835?style=flat-square) |
 
 ---
 
@@ -170,7 +183,7 @@ More about the candlestick book: [candlestick.mrchartist.com](https://candlestic
 | Free today | Paid, and always labelled |
 |:---|:---|
 | The whole Academy, nothing locked | The two books, on Amazon and Flipkart |
-| The weekly ChartBook, every Sunday on Telegram | Any future tool pricing, announced only when the tools are ready |
+| The weekly ChartBook, every Sunday on Telegram | Investology research service |
 | FII/DII Data and IPO Decode | |
 | Scanner Pro, in open beta | |
 
@@ -182,13 +195,13 @@ The Academy stays free, no matter what the other tools cost.
 
 <div align="center">
 
-<a href="https://github.com/MrChartist/india-s-best-option-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=india-s-best-option-hub&theme=dark&bg_color=06080A&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=1B1F25" alt="india-s-best-option-hub"/></a>
+<a href="https://github.com/MrChartist/india-s-best-option-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=india-s-best-option-hub&theme=dark&bg_color=0F0E0D&title_color=DEA27F&icon_color=DEA27F&text_color=F4F2F0&border_color=2A2826&hide_border=false" alt="india-s-best-option-hub"/></a>
 &nbsp;
-<a href="https://github.com/MrChartist/fii-dii-data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=fii-dii-data&theme=dark&bg_color=06080A&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=1B1F25" alt="fii-dii-data"/></a>
+<a href="https://github.com/MrChartist/fii-dii-data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=fii-dii-data&theme=dark&bg_color=0F0E0D&title_color=DEA27F&icon_color=DEA27F&text_color=F4F2F0&border_color=2A2826&hide_border=false" alt="fii-dii-data"/></a>
 
-<a href="https://github.com/MrChartist/Funda-Scanner-Base-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=Funda-Scanner-Base-Project&theme=dark&bg_color=06080A&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=1B1F25" alt="Funda-Scanner-Base-Project"/></a>
+<a href="https://github.com/MrChartist/Funda-Scanner-Base-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=Funda-Scanner-Base-Project&theme=dark&bg_color=0F0E0D&title_color=DEA27F&icon_color=DEA27F&text_color=F4F2F0&border_color=2A2826&hide_border=false" alt="Funda-Scanner-Base-Project"/></a>
 &nbsp;
-<a href="https://github.com/MrChartist/commodity-price-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=commodity-price-tracker&theme=dark&bg_color=06080A&title_color=FF6633&icon_color=FF6633&text_color=ECECEC&border_color=1B1F25" alt="commodity-price-tracker"/></a>
+<a href="https://github.com/MrChartist/commodity-price-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrChartist&repo=commodity-price-tracker&theme=dark&bg_color=0F0E0D&title_color=DEA27F&icon_color=DEA27F&text_color=F4F2F0&border_color=2A2826&hide_border=false" alt="commodity-price-tracker"/></a>
 
 <br />
 
@@ -196,12 +209,8 @@ The Academy stays free, no matter what the other tools cost.
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrChartist&show_icons=true&theme=dark&bg_color=06080A&title_color=FF6633&text_color=ECECEC&icon_color=FF6633&border_color=1B1F25&count_private=true&include_all_commits=true" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChartist&layout=compact&theme=dark&bg_color=06080A&title_color=FF6633&text_color=ECECEC&border_color=1B1F25" alt="Top languages" width="48%" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=MrChartist&theme=dark&border=1B1F25&stroke=1B1F25&ring=FF6633&fire=FF6633&currStreakLabel=FF6633&sideLabels=ECECEC&dates=8A8F98&background=06080A" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MrChartist&show_icons=true&theme=dark&bg_color=0F0E0D&title_color=DEA27F&text_color=F4F2F0&icon_color=DEA27F&border_color=2A2826&count_private=true&include_all_commits=true" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChartist&layout=compact&theme=dark&bg_color=0F0E0D&title_color=DEA27F&text_color=F4F2F0&border_color=2A2826" alt="Top languages" width="48%" />
 
 </div>
 
@@ -217,7 +226,5 @@ The Academy stays free, no matter what the other tools cost.
 <br />
 
 <div align="center">
-<img src="assets/profile.png" alt="Mr. Chartist" width="72" />
-<br /><br />
-<sub>© Mr. Chartist · Built for Indian traders and investors 🇮🇳</sub>
+<a href="https://mrchartist.com"><img src="assets/footer.svg" alt="Mr. Chartist. Learn the Indian market. Check my work." width="100%" /></a>
 </div>
