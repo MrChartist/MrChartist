@@ -1,232 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
-  <defs>
-    <!-- Dark Background Gradient -->
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0D0D0D"/>
-      <stop offset="50%" stop-color="#121215"/>
-      <stop offset="100%" stop-color="#08080A"/>
-    </linearGradient>
-
-    <!-- Brand Primary Gradient -->
-    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6633"/>
-      <stop offset="100%" stop-color="#FF8552"/>
-    </linearGradient>
-
-    <!-- Candlestick Green/Red Gradients -->
-    <linearGradient id="candleGreen" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#10B981"/>
-      <stop offset="100%" stop-color="#059669"/>
-    </linearGradient>
-
-    <linearGradient id="candleRed" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#EF4444"/>
-      <stop offset="100%" stop-color="#DC2626"/>
-    </linearGradient>
-
-    <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="15" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-
-    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
-
-    <!-- Background Grid Pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
-    </pattern>
-  </defs>
-
-  <!-- Base Canvas Background -->
-  <rect width="1200" height="400" rx="16" fill="url(#bgGradient)"/>
-
-  <!-- Grid Layer -->
-  <rect width="1200" height="400" rx="16" fill="url(#grid)"/>
-
-  <!-- Radial Background Lighting Ambient Glows -->
-  <circle cx="200" cy="100" r="180" fill="#FF6633" opacity="0.08" filter="url(#glow)"/>
-  <circle cx="1000" cy="300" r="220" fill="#2E73CF" opacity="0.06" filter="url(#glow)"/>
-  <circle cx="850" cy="120" r="150" fill="#138A63" opacity="0.05" filter="url(#glow)"/>
-
-  <!-- Decorative Chart Grid Lines (Right Area) -->
-  <g opacity="0.12" stroke="#ECECEC" stroke-width="1" stroke-dasharray="4 4">
-    <line x1="600" y1="80" x2="1140" y2="80"/>
-    <line x1="600" y1="140" x2="1140" y2="140"/>
-    <line x1="600" y1="200" x2="1140" y2="200"/>
-    <line x1="600" y1="260" x2="1140" y2="260"/>
-  </g>
-
-  <!-- Right Visual Area: Stylized Candlestick Chart -->
-  <!-- Volume Bars -->
-  <g opacity="0.25">
-    <rect x="630" y="270" width="12" height="40" fill="#10B981" rx="2"/>
-    <rect x="660" y="250" width="12" height="60" fill="#EF4444" rx="2"/>
-    <rect x="690" y="260" width="12" height="50" fill="#10B981" rx="2"/>
-    <rect x="720" y="240" width="12" height="70" fill="#10B981" rx="2"/>
-    <rect x="750" y="275" width="12" height="35" fill="#EF4444" rx="2"/>
-    <rect x="780" y="230" width="12" height="80" fill="#10B981" rx="2"/>
-    <rect x="810" y="220" width="12" height="90" fill="#10B981" rx="2"/>
-    <rect x="840" y="250" width="12" height="60" fill="#EF4444" rx="2"/>
-    <rect x="870" y="210" width="12" height="100" fill="#10B981" rx="2"/>
-    <rect x="900" y="190" width="12" height="120" fill="#10B981" rx="2"/>
-    <rect x="930" y="180" width="12" height="130" fill="#10B981" rx="2"/>
-    <rect x="960" y="200" width="12" height="110" fill="#EF4444" rx="2"/>
-    <rect x="990" y="160" width="12" height="150" fill="#10B981" rx="2"/>
-    <rect x="1020" y="140" width="12" height="170" fill="#10B981" rx="2"/>
-    <rect x="1050" y="120" width="12" height="190" fill="#FF6633" rx="2"/>
-  </g>
-
-  <!-- Candlesticks Wicks & Bodies -->
-  <!-- Candle 1 Green -->
-  <line x1="636" y1="210" x2="636" y2="275" stroke="#10B981" stroke-width="2"/>
-  <rect x="630" y="225" width="12" height="35" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 2 Red -->
-  <line x1="666" y1="215" x2="666" y2="280" stroke="#EF4444" stroke-width="2"/>
-  <rect x="660" y="230" width="12" height="40" fill="url(#candleRed)" rx="2"/>
-
-  <!-- Candle 3 Green -->
-  <line x1="696" y1="195" x2="696" y2="265" stroke="#10B981" stroke-width="2"/>
-  <rect x="690" y="210" width="12" height="40" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 4 Green -->
-  <line x1="726" y1="180" x2="726" y2="250" stroke="#10B981" stroke-width="2"/>
-  <rect x="720" y="195" width="12" height="45" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 5 Red -->
-  <line x1="756" y1="200" x2="756" y2="270" stroke="#EF4444" stroke-width="2"/>
-  <rect x="750" y="210" width="12" height="30" fill="url(#candleRed)" rx="2"/>
-
-  <!-- Candle 6 Green -->
-  <line x1="786" y1="160" x2="786" y2="240" stroke="#10B981" stroke-width="2"/>
-  <rect x="780" y="175" width="12" height="50" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 7 Green -->
-  <line x1="816" y1="150" x2="816" y2="225" stroke="#10B981" stroke-width="2"/>
-  <rect x="810" y="165" width="12" height="45" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 8 Red -->
-  <line x1="846" y1="170" x2="846" y2="245" stroke="#EF4444" stroke-width="2"/>
-  <rect x="840" y="180" width="12" height="40" fill="url(#candleRed)" rx="2"/>
-
-  <!-- Candle 9 Green (Breakout) -->
-  <line x1="876" y1="125" x2="876" y2="215" stroke="#10B981" stroke-width="2"/>
-  <rect x="870" y="140" width="12" height="60" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 10 Green -->
-  <line x1="906" y1="110" x2="906" y2="190" stroke="#10B981" stroke-width="2"/>
-  <rect x="900" y="125" width="12" height="55" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 11 Green -->
-  <line x1="936" y1="95" x2="936" y2="175" stroke="#10B981" stroke-width="2"/>
-  <rect x="930" y="110" width="12" height="50" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 12 Red -->
-  <line x1="966" y1="120" x2="966" y2="195" stroke="#EF4444" stroke-width="2"/>
-  <rect x="960" y="135" width="12" height="45" fill="url(#candleRed)" rx="2"/>
-
-  <!-- Candle 13 Green -->
-  <line x1="996" y1="80" x2="996" y2="160" stroke="#10B981" stroke-width="2"/>
-  <rect x="990" y="95" width="12" height="55" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 14 Green Highlight -->
-  <line x1="1026" y1="65" x2="1026" y2="145" stroke="#10B981" stroke-width="2"/>
-  <rect x="1020" y="80" width="12" height="55" fill="url(#candleGreen)" rx="2"/>
-
-  <!-- Candle 15 Orange Accent Candle -->
-  <line x1="1056" y1="50" x2="1056" y2="130" stroke="#FF6633" stroke-width="2.5"/>
-  <rect x="1050" y="65" width="12" height="55" fill="url(#orangeGradient)" filter="url(#subtleGlow)" rx="2"/>
-
-  <!-- Moving Average Line Overlay -->
-  <path d="M 610 260 C 670 240, 720 230, 780 195 C 840 170, 900 145, 960 130 C 1000 110, 1040 80, 1090 60" 
-        fill="none" stroke="#FF6633" stroke-width="3" stroke-linecap="round" filter="url(#subtleGlow)"/>
-
-  <!-- Pulse Dot at Tip -->
-  <circle cx="1090" cy="60" r="5" fill="#FF6633" filter="url(#subtleGlow)"/>
-  <circle cx="1090" cy="60" r="10" fill="#FF6633" opacity="0.3"/>
-
-  <!-- Left Side Branding Content -->
-
-  <!-- Brand Tile Icon -->
-  <g transform="translate(60, 65)">
-    <rect width="64" height="64" rx="16" fill="#18181C" stroke="#FF6633" stroke-opacity="0.4" stroke-width="1.5"/>
-    <text x="32" y="44" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="34" fill="url(#orangeGradient)">M</text>
-    <polyline points="14,50 22,46 30,48 38,38 46,40 50,34" fill="none" stroke="#10B981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="50" cy="34" r="2.5" fill="#10B981"/>
-  </g>
-
-  <!-- Title & Subtitle -->
-  <text x="142" y="105" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="38" fill="#ECECEC" letter-spacing="-0.02em">
-    Mr. Chartist
-  </text>
-  <circle cx="366" cy="94" r="5" fill="#FF6633" filter="url(#subtleGlow)"/>
-
-  <text x="142" y="132" font-family="'Inter', system-ui, sans-serif" font-weight="500" font-size="16" fill="#A1A1AA" letter-spacing="0.01em">
-    India's Premier Financial Literacy &amp; Quantitative Research Platform
-  </text>
-
-  <!-- SEBI Regulatory Badge Pill -->
-  <g transform="translate(60, 160)">
-    <rect width="470" height="38" rx="10" fill="#151518" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
-    <!-- SEBI Shield Icon -->
-    <path d="M 22 12 L 32 15 L 32 23 C 32 28 22 31 22 31 C 22 31 12 28 12 23 L 12 15 Z" fill="none" stroke="#FF6633" stroke-width="1.8" stroke-linejoin="round"/>
-    <text x="42" y="24" font-family="'Inter', system-ui, sans-serif" font-weight="700" font-size="13" fill="#FF6633" letter-spacing="0.04em">SEBI REGISTERED RESEARCH ANALYST</text>
-    <text x="310" y="24" font-family="'Lato', monospace, sans-serif" font-weight="600" font-size="13" fill="#ECECEC">INH000015297</text>
-  </g>
-
-  <!-- Author Badge -->
-  <g transform="translate(60, 212)">
-    <text x="0" y="18" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="14" fill="#D4D4D8">
-      Founded &amp; Authored by <tspan font-weight="700" fill="#FFFFFF">Rohit Singh</tspan>
-    </text>
-  </g>
-
-  <!-- 9 Module Pill Colors Bar -->
-  <g transform="translate(60, 255)">
-    <!-- Pill 1: Sapphire -->
-    <rect x="0" y="0" width="14" height="14" rx="4" fill="#2E73CF"/>
-    <!-- Pill 2: Plum -->
-    <rect x="22" y="0" width="14" height="14" rx="4" fill="#A8458C"/>
-    <!-- Pill 3: Sunset -->
-    <rect x="44" y="0" width="14" height="14" rx="4" fill="#E0632F"/>
-    <!-- Pill 4: Forest Emerald -->
-    <rect x="66" y="0" width="14" height="14" rx="4" fill="#138A63"/>
-    <!-- Pill 5: Royal Onyx Teal -->
-    <rect x="88" y="0" width="14" height="14" rx="4" fill="#1F8597"/>
-    <!-- Pill 6: Magenta -->
-    <rect x="110" y="0" width="14" height="14" rx="4" fill="#D11A6E"/>
-    <!-- Pill 7: Crimson -->
-    <rect x="132" y="0" width="14" height="14" rx="4" fill="#C42B3C"/>
-    <!-- Pill 8: Royal Navy -->
-    <rect x="154" y="0" width="14" height="14" rx="4" fill="#5E6FAC"/>
-    <!-- Pill 9: Gold -->
-    <rect x="176" y="0" width="14" height="14" rx="4" fill="#A8801F"/>
-
-    <text x="202" y="12" font-family="'Inter', system-ui, sans-serif" font-weight="500" font-size="13" fill="#71717A">
-      9 Core Learning Modules • NISM Series 1–24 • Sector &amp; Company Analysis
-    </text>
-  </g>
-
-  <!-- Bottom Bar Divider -->
-  <line x1="60" y1="330" x2="1140" y2="330" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
-
-  <!-- Footer Info Line -->
-  <g transform="translate(60, 362)">
-    <text font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="13" fill="#A1A1AA">
-      🌐 Website: <tspan fill="#FF6633">mrchartist.com</tspan>
-    </text>
-    <text x="240" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="13" fill="#A1A1AA">
-      ⚡ Investology: <tspan fill="#ECECEC">investology.mrchartist.com</tspan>
-    </text>
-    <text x="560" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="13" fill="#A1A1AA">
-      📊 FII/DII Tracker: <tspan fill="#ECECEC">fii-diidata.mrchartist.com</tspan>
-    </text>
-    <text x="890" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="13" fill="#71717A">
-      React 18 • Vite • TS • Supabase
-    </text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-label="Mr. Chartist. Learn the Indian market. Check my work.">
+<defs>
+<radialGradient id="g1" cx="0.82" cy="0.1" r="0.7"><stop offset="0" stop-color="#FF6633" stop-opacity="0.22"/><stop offset="1" stop-color="#FF6633" stop-opacity="0"/></radialGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#FF6633" stop-opacity="0"/><stop offset="0.5" stop-color="#FF6633" stop-opacity="0.9"/><stop offset="1" stop-color="#FFB38F"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/></pattern>
+<clipPath id="c"><rect width="1280" height="440" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1280" height="440" fill="#06080A"/><rect width="1280" height="440" fill="url(#grid)"/><rect width="1280" height="440" fill="url(#g1)"/>
+<path d="M0,330 L90,300 L170,318 L260,262 L340,280 L430,214 L520,236 L610,170 L700,190 L790,120 L880,142 L970,84 L1060,108 L1150,50 L1280,30" fill="none" stroke="url(#ln)" stroke-width="3" stroke-linejoin="round" stroke-dasharray="2400" stroke-dashoffset="2400" opacity="0.9">
+<animate attributeName="stroke-dashoffset" from="2400" to="0" dur="4s" fill="freeze"/></path>
+<path d="M0,330 L90,300 L170,318 L260,262 L340,280 L430,214 L520,236 L610,170 L700,190 L790,120 L880,142 L970,84 L1060,108 L1150,50 L1280,30 L1280,440 L0,440 Z" fill="#FF6633" opacity="0.05"/>
+<circle cx="1280" cy="30" r="0" fill="#FF6633"/>
+<circle cx="1150" cy="50" r="6" fill="#FF6633"><animate attributeName="r" values="5;11;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<g transform="translate(66,40) scale(0.46)"><g fill="#FFFFFF" transform="translate(105,105) scale(0.137524557956778) translate(-598.5,-627)"><path d="M113.000 419.000 C128.592 434.006 145.057 448.270 162.000 461.824 C299.947 577.880 486.231 594.815 659.000 599.706 C680.524 601.629 702.137 604.069 723.000 609.941 C739.114 614.722 756.237 621.994 765.294 637.000 C772.039 648.057 770.249 662.141 764.059 673.000 C757.496 684.792 747.292 693.980 737.000 702.471 C622.184 776.562 493.076 829.586 375.000 896.000 L375.000 963.000 C515.515 883.674 670.173 822.286 802.000 726.706 C813.556 716.290 824.300 704.439 830.529 690.000 C838.815 671.480 839.343 649.379 830.353 631.000 C820.580 611.223 801.894 597.282 782.000 588.706 C761.954 580.063 740.467 575.548 719.000 572.118 C554.209 556.993 381.998 531.255 246.000 428.882 C217.642 409.437 190.041 388.438 165.000 365.000 L113.000 419.000 Z"/><path d="M188.000 337.000 C316.846 468.242 496.277 534.615 677.000 549.412 C696.033 552.012 715.091 554.437 734.000 557.882 C755.462 561.939 776.867 567.125 797.000 575.765 C818.791 584.906 838.835 599.627 851.294 620.000 C862.243 638.513 866.051 660.948 861.588 682.000 C858.237 697.772 850.648 712.466 840.588 725.000 C831.364 736.435 820.525 746.457 809.000 755.529 C693.716 834.576 560.949 886.762 440.000 954.000 L440.000 1019.000 C574.338 944.999 718.397 882.423 848.000 798.000 C858.899 789.873 869.372 781.082 878.529 771.000 C894.178 753.831 906.631 733.452 912.941 711.000 C920.380 682.285 918.024 650.759 904.941 624.000 C893.907 601.346 875.568 582.806 854.000 570.000 C832.847 557.324 809.419 549.133 786.000 541.765 C766.238 535.785 746.114 531.161 726.000 526.529 C548.716 496.882 375.210 416.898 258.000 278.000 L188.000 337.000 Z"/><path d="M290.000 254.000 C308.447 274.155 327.161 295.512 348.000 314.000 C453.478 424.326 599.037 483.129 746.000 513.353 C763.758 517.829 781.437 522.609 799.000 527.824 C820.526 534.566 841.986 542.016 862.000 552.529 C886.185 565.229 907.447 583.869 922.118 607.000 C936.227 629.718 943.569 656.320 944.000 683.000 C943.512 706.016 937.438 728.767 926.471 749.000 C918.039 764.406 907.264 778.449 895.000 791.000 C883.493 802.227 871.026 812.419 858.000 821.824 C746.244 894.490 621.481 948.074 505.000 1010.000 L504.000 1076.000 C632.480 1005.064 770.972 946.800 897.000 869.294 C910.758 860.022 923.644 849.526 936.000 838.471 C949.658 825.478 962.100 811.081 972.000 795.000 C986.214 772.034 994.894 745.857 997.529 719.000 C999.937 688.692 995.002 657.792 982.588 630.000 C968.964 599.153 947.229 572.032 920.000 552.118 C902.365 539.381 883.111 528.960 863.000 520.706 C845.298 513.239 827.109 507.048 809.000 500.647 C636.074 454.709 466.017 356.684 383.000 193.000 L290.000 254.000 Z"/><path d="M425.000 170.000 C433.325 187.316 444.967 205.810 455.765 223.000 C533.154 356.596 671.084 441.407 816.000 484.765 C836.523 491.915 856.986 499.223 877.000 507.706 C897.796 516.718 918.241 526.786 937.000 539.588 C960.903 556.257 981.598 577.851 996.412 603.000 C1009.897 626.411 1018.784 652.337 1023.000 679.000 C1026.668 705.231 1025.905 732.331 1019.059 758.000 C1012.980 780.132 1003.460 801.351 990.000 820.000 C978.054 836.793 963.343 851.389 948.000 865.059 C831.432 949.293 692.805 999.811 568.000 1068.000 L568.000 1134.000 C703.535 1066.165 848.062 1008.114 977.000 925.941 C993.062 914.079 1008.092 900.785 1021.529 886.000 C1040.975 864.157 1057.656 839.480 1068.000 812.000 C1078.937 784.083 1083.851 753.948 1083.000 724.000 C1082.049 696.275 1076.066 668.824 1066.000 643.000 C1050.881 604.319 1026.649 569.070 995.000 542.059 C976.526 526.146 955.609 513.398 934.000 502.235 C918.017 493.984 901.516 486.805 885.000 479.706 C739.010 425.017 609.370 318.638 551.353 171.000 C543.555 154.264 535.319 136.249 529.000 120.000 L425.000 170.000 Z"/></g><path fill="#FFFFFF" transform="translate(215.0000,132) scale(0.09, -0.09)" d="M66 0V745H216L495 375H425L696 745H846V0H691V574L753 560L466 190H446L169 560L221 574V0Z"/><path fill="#FFFFFF" transform="translate(292.1300,132) scale(0.09, -0.09)" d="M55 0V546H195V415L185 434Q203 503 244.5 527.5Q286 552 343 552H375V422H328Q273 422 239.0 388.5Q205 355 205 294V0Z"/><path fill="#FFFFFF" transform="translate(321.9200,132) scale(0.09, -0.09)" d="M129 0V150H279V0Z"/><path fill="#FFFFFF" transform="translate(353.6900,132) scale(0.09, -0.09)" d=""/><path fill="#FFFFFF" transform="translate(364.9400,132) scale(0.09, -0.09)" d="M420 -12Q340 -12 271.5 17.0Q203 46 152.0 98.0Q101 150 72.5 220.0Q44 290 44 373Q44 456 72.0 526.5Q100 597 151.0 648.5Q202 700 270.5 728.5Q339 757 420 757Q501 757 565.5 730.0Q630 703 675.0 658.0Q720 613 739 558L602 492Q583 546 535.5 581.5Q488 617 420 617Q354 617 304.0 586.0Q254 555 226.5 500.5Q199 446 199 373Q199 300 226.5 245.0Q254 190 304.0 159.0Q354 128 420 128Q488 128 535.5 163.5Q583 199 602 253L739 187Q720 132 675.0 87.0Q630 42 565.5 15.0Q501 -12 420 -12Z"/><path fill="#FFFFFF" transform="translate(429.4700,132) scale(0.09, -0.09)" d="M55 0V757H205V438L187 462Q206 511 248.5 534.5Q291 558 348 558Q410 558 456.5 532.0Q503 506 529.0 459.5Q555 413 555 351V0H405V319Q405 351 392.5 374.0Q380 397 357.5 410.0Q335 423 305 423Q276 423 253.0 410.0Q230 397 217.5 374.0Q205 351 205 319V0Z"/><path fill="#FFFFFF" transform="translate(478.4300,132) scale(0.09, -0.09)" d="M224 -12Q165 -12 122.0 7.0Q79 26 56.0 61.5Q33 97 33 146Q33 192 54.0 227.5Q75 263 118.5 287.0Q162 311 227 321L394 348V238L254 213Q222 207 205.0 192.5Q188 178 188 151Q188 126 207.0 112.0Q226 98 254 98Q291 98 319.0 114.0Q347 130 362.5 157.5Q378 185 378 218V360Q378 391 353.5 412.0Q329 433 287 433Q247 433 216.5 411.0Q186 389 172 353L52 410Q68 456 103.0 489.0Q138 522 187.0 540.0Q236 558 294 558Q363 558 416.0 533.0Q469 508 498.5 463.5Q528 419 528 360V0H388V88L422 94Q398 58 369.0 34.5Q340 11 304.0 -0.5Q268 -12 224 -12Z"/><path fill="#FFFFFF" transform="translate(525.9500,132) scale(0.09, -0.09)" d="M55 0V546H195V415L185 434Q203 503 244.5 527.5Q286 552 343 552H375V422H328Q273 422 239.0 388.5Q205 355 205 294V0Z"/><path fill="#FFFFFF" transform="translate(555.7400,132) scale(0.09, -0.09)" d="M318 -6Q219 -6 164.5 47.5Q110 101 110 197V416H18V546H23Q65 546 87.5 567.0Q110 588 110 630V670H260V546H388V416H260V207Q260 179 270.0 160.5Q280 142 301.0 133.0Q322 124 353 124Q360 124 369.0 125.0Q378 126 388 127V0Q373 -2 354.0 -4.0Q335 -6 318 -6Z"/><path fill="#FFFFFF" transform="translate(588.6800,132) scale(0.09, -0.09)" d="M55 0V546H205V0ZM55 595V745H205V595Z"/><path fill="#FFFFFF" transform="translate(607.1300,132) scale(0.09, -0.09)" d="M269 -12Q179 -12 112.5 30.5Q46 73 22 145L132 197Q153 153 189.0 128.0Q225 103 269 103Q301 103 318.0 116.0Q335 129 335 152Q335 164 329.0 172.5Q323 181 311.0 188.0Q299 195 281 200L188 226Q121 245 85.0 287.5Q49 330 49 388Q49 439 75.0 477.0Q101 515 148.0 536.5Q195 558 256 558Q336 558 396.5 520.5Q457 483 482 415L371 363Q359 397 327.5 417.5Q296 438 256 438Q227 438 210.5 426.0Q194 414 194 393Q194 382 200.0 373.0Q206 364 219.5 357.0Q233 350 253 344L340 318Q408 298 444.0 257.5Q480 217 480 158Q480 107 453.5 69.0Q427 31 380.0 9.5Q333 -12 269 -12Z"/><path fill="#FFFFFF" transform="translate(648.5300,132) scale(0.09, -0.09)" d="M318 -6Q219 -6 164.5 47.5Q110 101 110 197V416H18V546H23Q65 546 87.5 567.0Q110 588 110 630V670H260V546H388V416H260V207Q260 179 270.0 160.5Q280 142 301.0 133.0Q322 124 353 124Q360 124 369.0 125.0Q378 126 388 127V0Q373 -2 354.0 -4.0Q335 -6 318 -6Z"/></g>
+<rect x="70" y="148" width="318" height="34" rx="17" fill="none" stroke="#FF6633" stroke-opacity="0.6"/>
+<circle cx="92" cy="165" r="4.5" fill="#2FBF71"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="106" y="170" font-family="'Plus Jakarta Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.6" fill="#FF6633">SEBI REGISTERED RA · INH000015297</text>
+<text x="70" y="262" font-family="'DM Serif Display',Georgia,'Times New Roman',serif" font-size="76" fill="#ECECEC">Learn the Indian market.</text>
+<text x="70" y="346" font-family="'DM Serif Display',Georgia,'Times New Roman',serif" font-size="76" font-style="italic" fill="#FF6633">Check my work.</text>
+<text x="72" y="392" font-family="'Plus Jakarta Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#8A8F98">Free price-action lessons · weekly ChartBook · market tools for NSE and BSE</text>
+<rect x="0" y="412" width="1280" height="28" fill="#0B0E12"/><line x1="0" y1="412" x2="1280" y2="412" stroke="#1B1F25"/>
+<g font-family="'Plus Jakarta Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#8A8F98"><text y="431">
+<animate attributeName="x" from="0" to="-760" dur="22s" repeatCount="indefinite"/>
+<tspan fill="#FF6633">◆</tspan> LEARN IT   <tspan fill="#FF6633">◆</tspan> RESEARCH IT   <tspan fill="#FF6633">◆</tspan> SCAN IT   <tspan fill="#FF6633">◆</tspan> TRADE IT   <tspan fill="#FF6633">◆</tspan> REVIEW IT   <tspan fill="#FF6633">◆</tspan> LEARN IT   <tspan fill="#FF6633">◆</tspan> RESEARCH IT   <tspan fill="#FF6633">◆</tspan> SCAN IT   <tspan fill="#FF6633">◆</tspan> TRADE IT   <tspan fill="#FF6633">◆</tspan> REVIEW IT   <tspan fill="#FF6633">◆</tspan> LEARN IT   <tspan fill="#FF6633">◆</tspan> RESEARCH IT   <tspan fill="#FF6633">◆</tspan> SCAN IT   <tspan fill="#FF6633">◆</tspan> TRADE IT   <tspan fill="#FF6633">◆</tspan> REVIEW IT   <tspan fill="#FF6633">◆</tspan> LEARN IT   <tspan fill="#FF6633">◆</tspan> RESEARCH IT   <tspan fill="#FF6633">◆</tspan> SCAN IT   <tspan fill="#FF6633">◆</tspan> TRADE IT   <tspan fill="#FF6633">◆</tspan> REVIEW IT   <tspan fill="#FF6633">◆</tspan> LEARN IT   <tspan fill="#FF6633">◆</tspan> RESEARCH IT   <tspan fill="#FF6633">◆</tspan> SCAN IT   <tspan fill="#FF6633">◆</tspan> TRADE IT   <tspan fill="#FF6633">◆</tspan> REVIEW IT   
+</text></g>
+</g></svg>
