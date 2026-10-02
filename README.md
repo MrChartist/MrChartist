@@ -50,17 +50,23 @@ I do not ask you to trust a badge. Every setup is published with its date, its p
 
 ## Investology: structured chart research
 
+<div align="center">
+
+**A full trading day of chart research, from the first bell to the post-market review.**
+
 <a href="https://investology.mrchartist.com"><img src="assets/investology.svg" alt="Investology daily research suite: pre-market notes, level alerts, trade posters, post-market review, weekly ChartBook" width="100%" /></a>
 
-**[Investology](https://investology.mrchartist.com)** is my SEBI Registered Research Analyst service (INH000015297) for equity, F&O and commodity traders.
+<br />
 
-| Segment | Coverage |
-|:---|:---|
-| **Equity** | Nifty 50, BankNifty, Midcap 100 and select sectors |
-| **F&O** | Index options, futures levels and expiry observations |
-| **Commodities** | Gold, Silver and Crude Oil: weekly structure and levels |
+<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Open_Investology-2E73CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Investology"/></a>
 
-Research only, not investment advice. Plans and pricing are on [investology.mrchartist.com](https://investology.mrchartist.com).
+</div>
+
+| Equity | F&O | Commodities |
+|:---:|:---:|:---:|
+| Nifty 50, BankNifty, Midcap 100 and select sectors | Index options, futures levels and expiry observations | Gold, Silver and Crude Oil: weekly structure and levels |
+
+<sub>Investology is operated under SEBI Registration No. INH000015297. Research only, not investment advice.</sub>
 
 ---
 
