@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img" aria-label="Animated candlestick chart: price, volume, structure">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#18181C"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" rx="12" fill="url(#bg)" stroke="#222" />
+
+  <!-- support / resistance -->
+  <line x1="20" y1="42" x2="880" y2="42" stroke="#C42B3C" stroke-dasharray="6 6" opacity="0.6"/>
+  <line x1="20" y1="112" x2="880" y2="112" stroke="#138A63" stroke-dasharray="6 6" opacity="0.6"/>
+  <text x="26" y="36" font-family="monospace" font-size="11" fill="#C42B3C">RESISTANCE</text>
+  <text x="26" y="127" font-family="monospace" font-size="11" fill="#138A63">SUPPORT</text>
+
+  <!-- candles: bull = green, bear = red; wick + body -->
+  <g stroke-width="2">
+    <g stroke="#138A63" fill="#138A63"><line x1="150" y1="88" x2="150" y2="120"/><rect x="143" y="96" width="14" height="16"/></g>
+    <g stroke="#C42B3C" fill="#C42B3C"><line x1="200" y1="82" x2="200" y2="116"/><rect x="193" y="90" width="14" height="18"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="250" y1="76" x2="250" y2="112"/><rect x="243" y="84" width="14" height="22"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="300" y1="70" x2="300" y2="104"/><rect x="293" y="76" width="14" height="22"/></g>
+    <g stroke="#C42B3C" fill="#C42B3C"><line x1="350" y1="68" x2="350" y2="100"/><rect x="343" y="76" width="14" height="16"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="400" y1="62" x2="400" y2="96"/><rect x="393" y="68" width="14" height="22"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="450" y1="54" x2="450" y2="88"/><rect x="443" y="60" width="14" height="22"/></g>
+    <g stroke="#C42B3C" fill="#C42B3C"><line x1="500" y1="52" x2="500" y2="84"/><rect x="493" y="60" width="14" height="16"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="550" y1="46" x2="550" y2="80"/><rect x="543" y="52" width="14" height="22"/></g>
+    <!-- breakout candle, pulses -->
+    <g stroke="#FF6633" fill="#FF6633">
+      <line x1="600" y1="20" x2="600" y2="62"/>
+      <rect x="591" y="26" width="18" height="30">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <!-- retest -->
+    <g stroke="#C42B3C" fill="#C42B3C"><line x1="650" y1="28" x2="650" y2="52"/><rect x="643" y="34" width="14" height="12"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="700" y1="14" x2="700" y2="48"/><rect x="693" y="20" width="14" height="22"/></g>
+    <g stroke="#138A63" fill="#138A63"><line x1="750" y1="8" x2="750" y2="38"/><rect x="743" y="12" width="14" height="20"/></g>
+  </g>
+
+  <!-- volume bars -->
+  <g fill="#FF6633" opacity="0.5">
+    <rect x="145" y="146" width="10" height="6"/><rect x="195" y="144" width="10" height="8"/>
+    <rect x="245" y="145" width="10" height="7"/><rect x="295" y="143" width="10" height="9"/>
+    <rect x="345" y="146" width="10" height="6"/><rect x="395" y="143" width="10" height="9"/>
+    <rect x="445" y="142" width="10" height="10"/><rect x="495" y="146" width="10" height="6"/>
+    <rect x="545" y="141" width="10" height="11"/>
+    <rect x="595" y="132" width="10" height="20" opacity="1"/>
+    <rect x="645" y="145" width="10" height="7"/><rect x="695" y="141" width="10" height="11"/>
+    <rect x="745" y="140" width="10" height="12"/>
+  </g>
+
+  <!-- labels -->
+  <text x="598" y="12" text-anchor="middle" font-family="monospace" font-size="10" fill="#FF6633">BREAKOUT + VOLUME</text>
+  <text x="650" y="68" text-anchor="middle" font-family="monospace" font-size="10" fill="#A1A1AA">RETEST</text>
+  <text x="800" y="90" font-family="monospace" font-size="13" font-weight="bold" fill="#ECECEC">Price. Volume.</text>
+  <text x="800" y="108" font-family="monospace" font-size="13" font-weight="bold" fill="#FF6633">Structure.</text>
+</svg>
