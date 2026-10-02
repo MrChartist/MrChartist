@@ -217,7 +217,7 @@ The Academy stays free, no matter what the other tools cost.
 <br />
 
 <div align="center">
-<img src="assets/logo-horizontal-white.svg" alt="Mr. Chartist" height="44" />
+<img src="assets/profile.png" alt="Mr. Chartist" width="72" />
 <br /><br />
 <sub>© Mr. Chartist · Built for Indian traders and investors 🇮🇳</sub>
 </div>
