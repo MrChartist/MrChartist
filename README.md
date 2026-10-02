@@ -10,7 +10,7 @@
 <a href="https://t.me/MrChartist"><img src="https://img.shields.io/badge/Telegram-ChartBook-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.youtube.com/@MrChartist"><img src="https://img.shields.io/badge/YouTube-@MrChartist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://x.com/Mr_Chartist"><img src="https://img.shields.io/badge/X-@Mr__Chartist-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.linkedin.com/in/mrchartist"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/rohit-mrchartist/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/mrchartist"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.tradingview.com/u/MrChartist"><img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"/></a>
 
