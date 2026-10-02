@@ -5,6 +5,7 @@
 <br />
 
 <a href="https://mrchartist.com"><img src="https://img.shields.io/badge/mrchartist.com-FF6633?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://investology.mrchartist.com"><img src="https://img.shields.io/badge/Investology-SEBI_RA_Research-2E73CF?style=for-the-badge" alt="Investology"/></a>
 <a href="https://mrchartist.com/learn"><img src="https://img.shields.io/badge/Academy-Free-B7830D?style=for-the-badge" alt="Academy"/></a>
 <a href="https://t.me/MrChartist"><img src="https://img.shields.io/badge/Telegram-ChartBook-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.youtube.com/@MrChartist"><img src="https://img.shields.io/badge/YouTube-@MrChartist-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -47,6 +48,22 @@ I do not ask you to trust a badge. Every setup is published with its date, its p
 
 ---
 
+## Investology: structured chart research
+
+<a href="https://investology.mrchartist.com"><img src="assets/investology.svg" alt="Investology daily research suite: pre-market notes, level alerts, trade posters, post-market review, weekly ChartBook" width="100%" /></a>
+
+**[Investology](https://investology.mrchartist.com)** is my SEBI Registered Research Analyst service (INH000015297) for equity, F&O and commodity traders.
+
+| Segment | Coverage |
+|:---|:---|
+| **Equity** | Nifty 50, BankNifty, Midcap 100 and select sectors |
+| **F&O** | Index options, futures levels and expiry observations |
+| **Commodities** | Gold, Silver and Crude Oil: weekly structure and levels |
+
+Research only, not investment advice. Plans and pricing are on [investology.mrchartist.com](https://investology.mrchartist.com).
+
+---
+
 ## The ecosystem: five steps, one workflow
 
 Every product was built because one of these steps let me down and cost me money.
@@ -61,7 +78,7 @@ Every product was built because one of these steps let me down and cost me money
 | Research | **[Weekly ChartBook](https://mrchartist.com/research)** | Chart-based equity and F&O setups every week, with levels and invalidation marked. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Research | **[FII/DII Data](https://fii-diidata.mrchartist.com)** | FII/DII flows, F&O positioning and sector-wise FPI allocation. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Research | **[IPO Decode](https://ipodecode.mrchartist.com)** | Every mainboard and SME IPO, from DRHP to listing: GMP, subscription, allotment. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
-| Research | **[Investology](https://investology.mrchartist.com)** | Weekly ChartBook and breakout alerts under my SEBI registration. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
+| Research | **[Investology](https://investology.mrchartist.com)** | Structured chart research under my SEBI registration: daily notes, level alerts, trade posters and weekly ChartBook. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Scan | **[Scanner Pro](https://scanner.mrchartist.com)** | 120+ algorithmic scans across 3,000+ NSE and BSE stocks, with an AI market brief. | ![Live](https://img.shields.io/badge/LIVE-2FBF71?style=flat-square) |
 | Scan | **[FundaDesk](https://funda.mrchartist.com)** | Fundamental research desk with 15+ years of statements and a Quality Score. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
 | Trade | **[OptionsDesk](https://optionsdesk.mrchartist.com)** | Option chain across expiries, volatility research and event-based notes. | ![In development](https://img.shields.io/badge/IN_DEV-8A8F98?style=flat-square) |
@@ -90,30 +107,55 @@ Every product was built because one of these steps let me down and cost me money
 
 ## The books
 
+Two price-action books, both built on real NSE and BSE trades: the entry, what proved the setup wrong, and the trades where the pattern failed. No theory-only chapters, no examples borrowed from the US market.
+
 <table>
 <tr>
-<td width="200" align="center" valign="top">
-<img src="assets/book-cover.webp" alt="Trading Candlestick Patterns book cover" width="180" />
+<td width="50%" align="center" valign="top">
+<img src="assets/book-cover.webp" alt="Trading Candlestick Patterns" height="300" />
+<h3>Trading Candlestick Patterns</h3>
+<b>Amazon #1 bestseller</b><br />
+Rating 4.8 · 500+ reviews · 250+ pages · 35+ patterns<br /><br />
+English · Hindi · Marathi · Gujarati
+</td>
+<td width="50%" align="center" valign="top">
+<img src="assets/chart-patterns-cover.png" alt="Trading Chart Patterns" height="300" />
+<h3>Trading Classic Chart Patterns</h3>
+<b>New release</b><br />
+Rating 5.0 · 25+ reviews · 19 patterns · 25 case studies<br /><br />
+English
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+35+ patterns explained with real NSE and BSE examples. Every pattern carries entry rules, stop placement and a trade-planning frame, with Reliance, TCS and Nifty 50 cases.
+
 </td>
 <td valign="top">
 
-### Trading Candlestick Patterns
-**Amazon #1 bestseller** · rated 4.8 · 500+ reviews
-
-250+ pages of price action. 35+ patterns explained with real NSE and BSE examples. Every pattern carries entry rules, stop placement and a trade-planning frame. Available in **English, Hindi, Marathi and Gujarati**.
-
-<a href="https://candlestick.mrchartist.com"><img src="https://img.shields.io/badge/Read_more-FF6633?style=for-the-badge" alt="Candlestick book"/></a>
-
-### Trading Classic Chart Patterns
-**New release** · rated 5.0 · 19 patterns · 25 case studies
-
-Classical charting read in context: trend, volume confirmation and the structural traps that break a textbook pattern. English edition.
+Classical charting read in context: 19 chart patterns, eight decision filters, volume confirmation and 25 market case studies, with the structural traps that break a textbook pattern.
 
 </td>
 </tr>
 </table>
 
-Both books are built on real trades: the entry, what proved the setup wrong, and the trades where the pattern failed. No theory-only chapters, no examples borrowed from the US market.
+### Trading Candlestick Patterns: all editions
+
+| Language | Amazon | Flipkart |
+|:---|:---:|:---:|
+| **English** | [Buy](https://amzn.in/d/04QqZRLp) | [Buy](https://www.flipkart.com/trading-candlestick-patterns-book-maximize-your-profits-using-charts/p/itm254391ca829fe?pid=RBKH5Z8NGX2HHERJ) |
+| **हिन्दी (Hindi)** | [Buy](https://www.amazon.in/dp/B0FZBW3LBW) | [Buy](https://www.flipkart.com/trading-candlestick-patterns-hindi-book-maximize-your-profits-using-charts-stock-market-technical-analysis/p/itmd4997ccac58ad) |
+| **मराठी (Marathi)** | [Buy](https://www.amazon.in/dp/B0FWKKCRQP) | [Buy](https://www.flipkart.com/trading-candlestick-patterns-marathi-book-maximize-your-profits-using-charts-stock-market-technical-analysis/p/itm34e6b5e9a79b9) |
+| **ગુજરાતી (Gujarati)** | [Buy](https://www.amazon.in/dp/B0F9FB7QPY) | [Buy](https://www.flipkart.com/trading-candlestick-patterns-gujarati-book-maximize-your-profits-using-charts-stock-market-technical-analysis/p/itm3a3678d3b5e82) |
+
+### Trading Classic Chart Patterns: edition
+
+| Language | Amazon | Flipkart |
+|:---|:---:|:---:|
+| **English** | [Buy](https://amzn.in/d/0bHTzPKO) | [Buy](https://www.flipkart.com/trading-chart-patterns-maximise-your-profits-using-patterns-technical-analysis-book/p/itmfec1fc7d4d370?pid=9788199128118) |
+
+More about the candlestick book: [candlestick.mrchartist.com](https://candlestick.mrchartist.com)
 
 ---
 
